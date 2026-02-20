@@ -1,3 +1,5 @@
+<h1>DataWarehouse Project</h1>
+
 **This project focuses on developing a data warehouse to produce actionable insights with data engineering and analytics.**
 
 1. Designing and implementing a modern data warehouse using the Medallion Architecture, structured into Bronze, Silver, and Gold layers. 
